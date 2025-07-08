@@ -1,0 +1,20 @@
+{
+  "noticias": [
+    {
+      "titulo": "Inteligencia artificial mejora el diagnóstico médico",
+      "descripcion": "Nuevos modelos de IA están ayudando a detectar enfermedades con mayor precisión.",
+      "fecha": "2025-07-08",
+      "comentario": "Un avance necesario, pero hay que revisar el uso ético de los datos de pacientes.",
+      "imagen": "https://via.placeholder.com/800x400?text=IA+medicina",
+      "link": "https://ejemplo.com/noticia1"
+    },
+    {
+      "titulo": "Chile implementa IA en predicción de cosechas",
+      "descripcion": "El sector agrícola chileno apuesta por modelos predictivos para optimizar recursos.",
+      "fecha": "2025-07-08",
+      "comentario": "Un uso estratégico que puede reducir costos y desperdicio de agua.",
+      "imagen": "https://via.placeholder.com/800x400?text=IA+agricultura",
+      "link": "https://ejemplo.com/noticia2"
+    }
+  ]
+}
